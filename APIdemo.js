@@ -8,10 +8,10 @@ const getAccessToken = function () {
         const url = 'https://login.microsoftonline.com/common/oauth2/token';
 
         const username = 'dennislee@m365bs.onmicrosoft.com'; // Username of PowerBI "pro" account - stored in config
-        const password = 'Tennis175166'; // Password of PowerBI "pro" account - stored in config
-        const clientId = 'c357b7e1-7b17-43fc-8bfc-d10d4632ae3f'; // Applicaton ID of app registered via Azure Active Directory - stored in config
+        const password = ''; // Password of PowerBI "pro" account - stored in config
+        const clientId = ''; // Applicaton ID of app registered via Azure Active Directory - stored in config
         // const clientSecret ='1fIYbOeZR3ggOJiEAWWHrRtYcMn8oBUAdXZVXpPIQ4Y=' ;
-        const clientSecret ='hwoluO+zRcdFoc0K6PDQ5BcO6IZ9QTSDwCoHLQ3S5E0=' ;
+        const clientSecret ='' ;
         const headers = {
             'Content-Type': 'application/x-www-form-urlencoded'
         };

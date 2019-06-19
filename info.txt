@@ -4,3 +4,8 @@ reportID :cc4be917-9ed4-4ec8-8eae-d6a1eaa164c1
 workspaceID :27c29037-5a60-4893-be3e-ccbc2b540f21
 
 127.0.0.1:4000/report/cc4be917-9ed4-4ec8-8eae-d6a1eaa164c1/27c29037-5a60-4893-be3e-ccbc2b540f21
+
+const username = 'dennislee@m365bs.onmicrosoft.com'; // Username of PowerBI "pro" account - stored in config
+const password = 'Tennis175166'; // Password of PowerBI "pro" account - stored in config
+const clientId = 'c357b7e1-7b17-43fc-8bfc-d10d4632ae3f'; // Applicaton ID of app registered via Azure Active Directory - stored in config
+const clientSecret ='hwoluO+zRcdFoc0K6PDQ5BcO6IZ9QTSDwCoHLQ3S5E0=' ;
