@@ -1,0 +1,6 @@
+testURL: 127.0.0.1:4000/report/{reportID}/{workspaceID}
+
+reportID :cc4be917-9ed4-4ec8-8eae-d6a1eaa164c1
+workspaceID :27c29037-5a60-4893-be3e-ccbc2b540f21
+
+127.0.0.1:4000/report/cc4be917-9ed4-4ec8-8eae-d6a1eaa164c1/27c29037-5a60-4893-be3e-ccbc2b540f21
